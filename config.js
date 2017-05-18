@@ -9,6 +9,7 @@
 
 var params = {};
 
+params.channelHeader = "[%users%] [%mode%] %topic%";
 params.showMenuButton = false;
 params.rememberNickname = true;
 params.nickPrefix = "";
