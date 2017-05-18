@@ -23,7 +23,7 @@ params.showJoinPartMessages = false;
 params.enableQueries = false;
 params.showInfoMessages = false;
 params.userListWidth = "0";
-
+params.emoticonPath = "emoticons/";
 params.emoticonList = ":)->smile.gif,;)->wink.gif,:D->biggrin.gif,:P->tongue.gif,:(->sad.gif,:$->blushing.gif,:O->ohmy.gif,(H)->cool.gif,:|->mellow.gif,Oo->blink.gif,:'(->crying.gif,:S->unsure.gif,:[->mad.gif,:akbar:->akbar.gif,:fu:->fu.gif,:lfinger:->lfinger.gif,:frog:->frog.gif,:dobro:->dobro.gif,:nook:->nook.gif";
 
 /* Change these parameters */
